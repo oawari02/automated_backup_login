@@ -1,0 +1,3 @@
+Web_Server status is Success
+DB_Server status is Failed
+Mail_Server status is Success
